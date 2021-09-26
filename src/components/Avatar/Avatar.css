@@ -1,0 +1,16 @@
+.avatar {
+  margin: 10px;
+  background: white;
+  padding: 10px;
+  width: 80px;
+  box-shadow: 5px 5px 5px #b8b8b852;
+}
+
+.avatar img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.avatar h5 {
+  margin: 4px 0 0 0;
+}

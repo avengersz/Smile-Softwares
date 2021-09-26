@@ -1,0 +1,65 @@
+.user {
+  text-align: center;
+  margin: 20px;
+  border: 1.5px solid #e0dede;
+  border-radius: 4px;
+  padding: 15px;
+  box-shadow: 10px 10px 10px gray;
+}
+
+.user img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  
+}
+
+.user > div {
+  text-align: left;
+  margin: 15px 0;
+  
+}
+
+.user .name {
+  font-size: 1.01rem;
+  font-weight: 700;
+}
+
+.user .icon {
+  color: #555;
+  font-size: 0.9rem;
+  margin-right: 10px;
+}
+
+.user p {
+  margin: 10px 0;
+  color: black;
+}
+
+.add-btn {
+  font-size: 1rem;
+  padding: 7px 11px;
+  color: white;
+  background-color: #8e44ad;
+  border: 0;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.add-btn .icon {
+  color: white;
+}
+
+.add-btn:hover {
+  background-color: #70308b;
+}
+
+.add-btn:focus {
+  outline: none;
+  background-color: #a655c9d2;
+}
+
+.disabled {
+  pointer-events: none;
+  background: #a655c9d2;
+}

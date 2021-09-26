@@ -1,0 +1,26 @@
+.cart {
+    text-align: center;
+    border: 1px solid black;
+    width: 20%;
+    height: 150px;
+    overflow: auto;
+    padding: 10px;
+    background-color: indianred;
+    border-radius: 4px;
+    position: fixed;
+    margin-right: 20px;
+    border: 1.5px solid #e0dede;
+    box-shadow: 10px 10px 10px #b8b8b852; 
+ 
+}
+
+.cart h2 {
+    border-bottom: 1px solid #5555555b;
+    padding-bottom: 20px;
+}
+
+.avatar-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
