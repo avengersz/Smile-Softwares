@@ -25,4 +25,4 @@ Technologies used in this Project mentioned below:
 
 ## Live Site Link
 
-[Live Site] ()
+[Live Site] (https://dazzling-goldwasser-e04cda.netlify.app/)
